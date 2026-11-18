@@ -1,3 +1,5 @@
+# KELVIN PRABHU . G
+# 212225060122
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
@@ -67,6 +69,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="570" height="286" alt="image" src="https://github.com/user-attachments/assets/3164d294-63e4-48be-8734-32d9d123268f" />
+
 
 ## 2. SUBTRACTION
 
@@ -119,6 +123,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="435" height="295" alt="image" src="https://github.com/user-attachments/assets/5e3f1111-36c3-47de-ba7c-3e4d16cfc91f" />
+
 
 ## 3. MULTIPLICATION
 
@@ -167,6 +173,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="438" height="249" alt="image" src="https://github.com/user-attachments/assets/837d4716-fcb0-4331-a9ab-dccad34ff288" />
+
 
 ## 4. DIVISION
 
@@ -211,6 +219,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="451" height="300" alt="image" src="https://github.com/user-attachments/assets/e0e5c8c7-9c84-4d6d-b2c7-63db1588c37e" />
+
 
 
 
